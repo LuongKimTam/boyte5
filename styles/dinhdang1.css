@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: auto;
+}
+.khung{
+	width: 960px;
+	height: 100px;
+	margin-left: auto;
+}
+.menu{
+	width: 730px;
+	float: left;
+	height: 30px;
+	padding-left: 30px;
+	border: solid 1px white;
+	
+}
+.menu a{
+	text-decoration: none;
+	color:#6A6868;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	padding: 10px;
+}
+.menu a:hover{
+	color: aqua;
+}
+.phai{
+	padding-left: 800px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: #CFCFCF;
+	
+}
